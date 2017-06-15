@@ -8,7 +8,7 @@ Server side CORS validation middleware. It's a Golang version of [mixmaxhq's cor
 
 This middleware can be used as follows:
 
-```
+```go
 package main
 
 import (

@@ -1,6 +1,6 @@
 # go-cors-gate
 
-[![Build Status](https://travis-ci.org/roemerb/go-cors-gate.svg?branch=master)](https://travis-ci.org/roemerb/go-cors-gate)
+[![Build Status](https://travis-ci.org/Roemerb/corsgate.svg?branch=master)](https://travis-ci.org/Roemerb/corsgate)
 
 Server side CORS validation middleware. It's a Golang version of [mixmaxhq's cors-gate package for Node](https://github.com/mixmaxhq).
 
